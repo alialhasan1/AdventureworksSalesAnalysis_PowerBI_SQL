@@ -1,5 +1,5 @@
 # AdventureworksSalesAnalysis_PowerBI_SQL
-This repository contains SQL scripts and Power BI reports that analyze sales data from the AdventureWorks database for the years 2019 to 2021.
+This repository contains SQL scripts and Power BI dashboards that analyze sales data from the AdventureWorks database for the years 2019 to 2021.
 
 The AdventureWorks database is a sample database provided by Microsoft, which contains sales and marketing data for a fictitious bike manufacturing company.
 
